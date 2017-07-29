@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=IOTA Wallet
+Comment=IOTA Wallet
+Exec="/opt/iota-wallet/iota" %U
+Terminal=false
+Type=Application
+Icon=iota
